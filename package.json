@@ -1,0 +1,14 @@
+{
+  "name": "earth_3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "adnan shihabi",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.136.0"
+  }
+}
